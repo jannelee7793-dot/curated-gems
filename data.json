@@ -1,25 +1,19 @@
 [{
-    "id": 1,
-    "title": "‘You are worthy and deserving of help’: six practical ways to navigate medical misogyny",
-    "title_zh": "“你值得也应该得到帮助”：应对医疗性别歧视的六种实用方法",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/sep/16/you-are-worthy-and-deserving-of-help-six-practical-ways-to-navigate-medical-misogyny",
-    "tags": [
-      "solve",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-09-15",
-    "summary_en": "This insightful article delves into the pervasive issue of medical misogyny, highlighting how a healthcare system often designed for men frequently dismisses women's health concerns. It presents six actionable strategies for women to advocate for themselves, drawing on personal anecdotes and expert advice. From seeking second opinions and understanding patient rights to researching conditions and clear communication, the piece empowers individuals to navigate a system that often invalidates their experiences. Crucially, it also addresses the significant mental health toll of medical gaslighting and the importance of seeking support. This content resonated deeply with me, emphasizing the systemic challenges women face and offering practical, tangible steps towards reclaiming agency in their healthcare journey. It's a powerful call to self-advocacy and a stark reminder of the ongoing fight for equitable medical treatment.",
-    "summary_zh": "这篇文章深刻剖析了医疗体系中普遍存在的性别歧视现象，揭示了女性在寻求医疗帮助时常被忽视的困境。它提供了六种实用的自我倡导策略，从寻求第二意见到清晰沟通，旨在赋能女性患者。我个人认为，它不仅揭示了系统性问题，更提供了具体可行的解决方案，尤其是对医疗煤气灯效应（medical gaslighting）对心理健康影响的探讨，极具启发性。它提醒我们，在不完善的体系中，自我赋权至关重要，女性值得被倾听和认真对待。",
-    "best_quote_en": "‘When enough people tell you maybe what you’re experiencing is not real, it has a profound effect on your own sense of self, your own confidence.’",
-    "best_quote_zh": "“当足够多的人告诉你，你所经历的可能不是真实的，这对你的自我认知和自信心会产生深远的影响。”"
-  },
+  "id": 1,
+  "title": "Cell Article",
+  "title_zh": "细胞文章",
+  "source": "Cell",
+  "link": "https://www.cell.com/cell/fulltext/S0092-8674(24)01332-1",
+  "tags": ["生物医学", "细胞生物学"],
+  "tags_zh": ["生物医学", "细胞生物学"],
+  "data-driven": "2024-01-01",
+  "date": "2025-09-15",
+  "summary_en": "This article discusses recent advancements in cell biology, focusing on innovative techniques and their implications for understanding cellular processes.",
+  "summary_zh": "这篇文章讨论了细胞生物学的最新进展，重点介绍了创新技术及其对理解细胞过程的影响。",
+  "best_quote_en": "Advancements in technology are paving the way for new discoveries in cell biology.",
+  "best_quote_zh": "技术的进步为细胞生物学的新发现铺平了道路。"
+}
+
   {
     "id": 2,
     "title": "Superlinear Returns",
