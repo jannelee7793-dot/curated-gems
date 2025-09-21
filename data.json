@@ -13,4 +13,139 @@
   "best_quote_en": "Advancements in technology are paving the way for new discoveries in cell biology.",
   "best_quote_zh": "技术的进步为细胞生物学的新发现铺平了道路。"
 }
+{
+  "id": 2,
+  "title": "AI在细胞生物学中的应用",
+  "title_zh": "AI在细胞生物学中的应用",
+  "source": "知乎专栏",
+  "link": "https://zhuanlan.zhihu.com/p/12552020780",
+  "tags": ["生物技术", "人工智能"],
+  "tags_zh": ["生物技术", "人工智能"],
+  "data-driven": "2024-01-01",
+  "date": "2025-09-15",
+  "summary_en": "The article discusses the integration of artificial intelligence in the field of cell biology, highlighting key methodologies and applications.",
+  "summary_zh": "这篇文章讨论了人工智能在细胞生物学领域的整合，强调了关键方法和应用。",
+  "best_quote_en": "AI has the potential to revolutionize our understanding of biological processes.",
+  "best_quote_zh": "人工智能有可能彻底改变我们对生物过程的理解。"
+}
+{
+  "id": 3,
+  "title": "The Role of Artificial Intelligence in Cellular Regeneration",
+  "title_zh": "人工智能在细胞再生中的作用",
+  "source": "bioRxiv",
+  "link": "https://www.biorxiv.org/content/10.1101/2025.09.12.675911v1",
+  "tags": ["细胞生物学", "人工智能", "再生医学"],
+  "tags_zh": ["细胞生物学", "人工智能", "再生医学"],
+  "data-driven": "2024-01-01",
+  "date": "2025-09-15",
+  "summary_en": "This article discusses how artificial intelligence is being utilized to enhance cellular regeneration processes, including methodologies and future implications.",
+  "summary_zh": "这篇文章讨论了如何利用人工智能增强细胞再生过程，包括方法论和未来的影响。",
+  "best_quote_en": "AI is reshaping our understanding of cellular regeneration and opening new avenues for research.",
+  "best_quote_zh": "人工智能正在重新塑造我们对细胞再生的理解，并为研究开辟新的途径。"
+}
+{
+  "id": 4,
+  "title": "Investigating Cellular Mechanisms Through Advanced Imaging",
+  "title_zh": "通过先进成像研究细胞机制",
+  "source": "Science Advances",
+  "link": "https://www.science.org/doi/10.1126/science.adv4415",
+  "tags": ["细胞生物学", "成像技术", "科学研究"],
+  "tags_zh": ["细胞生物学", "成像技术", "科学研究"],
+  "data-driven": "2024-01-01",
+  "date": "2025-09-15",
+  "summary_en": "This article offers insights into the latest advancements in imaging technology that allow for a deeper understanding of cellular mechanisms and interactions.",
+  "summary_zh": "这篇文章提供了关于成像技术最新进展的见解，这些技术使我们能够更深入地理解细胞机制和相互作用。",
+  "best_quote_en": "Advanced imaging techniques are transforming our ability to study cellular dynamics.",
+  "best_quote_zh": "先进的成像技术正在改变我们研究细胞动态的能力。"
+}
+{
+  "id": 5,
+  "title": "Cell Cycle Regulation by Cyclins in Yeast",
+  "title_zh": "酵母中细胞周期的循环蛋白调控",
+  "source": "Science",
+  "link": "https://www.science.org/doi/10.1126/science.284.5420.1677",
+  "tags": ["细胞生物学", "循环蛋白", "酵母研究"],
+  "tags_zh": ["细胞生物学", "循环蛋白", "酵母研究"],
+  "data-driven": "2024-01-01",
+  "date": "2025-09-15",
+  "summary_en": "This article explores the role of cyclins in regulating the cell cycle in yeast, providing insights into the molecular mechanisms involved.",
+  "summary_zh": "这篇文章探讨了循环蛋白在酵母细胞周期调控中的作用，提供了相关分子机制的见解。",
+  "best_quote_en": "Understanding cyclin function is crucial for unraveling the complexities of cell cycle regulation.",
+  "best_quote_zh": "理解循环蛋白的功能对于揭示细胞周期调控的复杂性至关重要。"
+}
+{
+  "id": 6,
+  "title": "The Role of Non-Coding RNAs in Gene Regulation",
+  "title_zh": "非编码RNA在基因调控中的作用",
+  "source": "Nature",
+  "link": "https://www.nature.com/articles/nature03248",
+  "tags": ["基因调控", "非编码RNA", "分子生物学"],
+  "tags_zh": ["基因调控", "非编码RNA", "分子生物学"],
+  "data-driven": "2024-01-01",
+  "date": "2025-09-15",
+  "summary_en": "This article reviews the mechanisms by which non-coding RNAs regulate gene expression and their implications for development and disease.",
+  "summary_zh": "这篇文章回顾了非编码RNA调控基因表达的机制及其在发育和疾病中的影响。",
+  "best_quote_en": "Non-coding RNAs are essential players in the complex network of gene regulation.",
+  "best_quote_zh": "非编码RNA是基因调控复杂网络中的重要参与者。"
+}
+{
+  "id": 7,
+  "title": "Computational Mechanics: Pattern and Prediction, Structure and Simplicity",
+  "title_zh": "计算力学：模式与预测，结构与简洁性",
+  "source": "Bing",
+  "link": "https://www.bing.com/search?q=Computational%20Mechanics%3APattern%20and%20Prediction%2C%20Structure%20and%20Simplicity.",
+  "tags": ["计算力学", "数据分析", "结构预测"],
+  "tags_zh": ["计算力学", "数据分析", "结构预测"],
+  "data-driven": "2024-01-01",
+  "date": "2025-09-15",
+  "summary_en": "This article discusses the integration of computational mechanics in understanding patterns and making predictions in various structures.",
+  "summary_zh": "这篇文章讨论了计算力学在理解各种结构的模式和进行预测中的应用。",
+  "best_quote_en": "The simplicity of computational models can reveal complex underlying patterns.",
+  "best_quote_zh": "计算模型的简洁性可以揭示复杂的基础模式。"
+}
+{
+  "id": 8,
+  "title": "The Quantum Theory of a Free Particle",
+  "title_zh": "自由粒子的量子理论",
+  "source": "Physical Review",
+  "link": "https://journals.aps.org/pr/abstract/10.1103/PhysRev.106.620",
+  "tags": ["量子力学", "物理学", "理论研究"],
+  "tags_zh": ["量子力学", "物理学", "理论研究"],
+  "data-driven": "2024-01-01",
+  "date": "2025-09-15",
+  "summary_en": "This article presents a comprehensive analysis of the quantum mechanics governing free particles, including implications for wave functions and probability distributions.",
+  "summary_zh": "这篇文章对自由粒子的量子力学进行了全面分析，包括对波函数和概率分布的影响。",
+  "best_quote_en": "The wave function encapsulates the probabilistic nature of quantum particles.",
+  "best_quote_zh": "波函数包含了量子粒子的概率特性。"
+}
+{
+  "id": 9,
+  "title": "Dysregulation of CB1 Receptor Signaling in Neural Circuits",
+  "title_zh": "神经回路中CB1受体信号传导的失调",
+  "source": "Nature Neuroscience",
+  "link": "https://www.nature.com/articles/s41593-022-01070-0",
+  "tags": ["神经科学", "CB1受体", "信号传导"],
+  "tags_zh": ["神经科学", "CB1受体", "信号传导"],
+  "data-driven": "2024-01-01",
+  "date": "2025-09-15",
+  "summary_en": "This article explores the dysregulation of CB1 receptor signaling in neural circuits and its implications for neurological diseases.",
+  "summary_zh": "这篇文章探讨了神经回路中CB1受体信号传导的失调及其对神经疾病的影响。",
+  "best_quote_en": "Understanding CB1 signaling is crucial for developing targeted therapies for neurological disorders.",
+  "best_quote_zh": "理解CB1信号传导对开发针对神经疾病的靶向治疗至关重要。"
+}
+{
+  "id": 10,
+  "title": "The Role of Immune Response in Cancer Therapy",
+  "title_zh": "免疫反应在癌症治疗中的作用",
+  "source": "PMC",
+  "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3971003/",
+  "tags": ["癌症治疗", "免疫学", "生物医学"],
+  "tags_zh": ["癌症治疗", "免疫学", "生物医学"],
+  "data-driven": "2024-01-01",
+  "date": "2025-09-15",
+  "summary_en": "This article discusses how immune responses influence the effectiveness of cancer therapies and outlines strategies to enhance these responses.",
+  "summary_zh": "这篇文章讨论了免疫反应如何影响癌症治疗的有效性，并概述了增强这些反应的策略。",
+  "best_quote_en": "Harnessing the power of the immune system is key to improving cancer treatment outcomes.",
+  "best_quote_zh": "利用免疫系统的力量是改善癌症治疗结果的关键。"
+}
 ]
