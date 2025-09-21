@@ -118,34 +118,4 @@
   "best_quote_en": "The wave function encapsulates the probabilistic nature of quantum particles.",
   "best_quote_zh": "波函数包含了量子粒子的概率特性。"
 }
-{
-  "id":9,
-  "title": "Dysregulation of CB1 Receptor Signaling in Neural Circuits",
-  "title_zh": "神经回路中CB1受体信号传导的失调",
-  "source": "Nature Neuroscience",
-  "link": "https://www.nature.com/articles/s41593-022-01070-0",
-  "tags": ["神经科学", "CB1受体", "信号传导"],
-  "tags_zh": ["神经科学", "CB1受体", "信号传导"],
-  "data-driven": "2024-01-01",
-  "date": "2025-09-15",
-  "summary_en": "This article explores the dysregulation of CB1 receptor signaling in neural circuits and its implications for neurological diseases.",
-  "summary_zh": "这篇文章探讨了神经回路中CB1受体信号传导的失调及其对神经疾病的影响。",
-  "best_quote_en": "Understanding CB1 signaling is crucial for developing targeted therapies for neurological disorders.",
-  "best_quote_zh": "理解CB1信号传导对开发针对神经疾病的靶向治疗至关重要。"
-}
-{
-  "id":10,
-  "title": "The Role of Immune Response in Cancer Therapy",
-  "title_zh": "免疫反应在癌症治疗中的作用",
-  "source": "PMC",
-  "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3971003/",
-  "tags": ["癌症治疗", "免疫学", "生物医学"],
-  "tags_zh": ["癌症治疗", "免疫学", "生物医学"],
-  "data-driven": "2024-01-01",
-  "date": "2025-09-15",
-  "summary_en": "This article discusses how immune responses influence the effectiveness of cancer therapies and outlines strategies to enhance these responses.",
-  "summary_zh": "这篇文章讨论了免疫反应如何影响癌症治疗的有效性，并概述了增强这些反应的策略。",
-  "best_quote_en": "Harnessing the power of the immune system is key to improving cancer treatment outcomes.",
-  "best_quote_zh": "利用免疫系统的力量是改善癌症治疗结果的关键。"
-}
 ]
